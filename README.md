@@ -26,7 +26,24 @@ Since an antoencoder reconstructs the inputs as its outputs, methods to make pre
 
 ## File Descriptions <a name="files"></a>
 
-The notebook showing step by step from data cleaning to the three models is available here.
+The notebook showing step by step from data exploration to discussion of the results obtained from the models.
+
+### Folder: app
+
+run.py - file to start the web application with files in the templates folder (go.html and master.html)
+
+### Folder: data
+
+disaster_messages.csv - real messages sent during disaster events provided by Figure Eight.
+
+disaster_categories.csv - the categories of the messages.
+
+process_data.py - to load raw messages, clean the messages and save the messages as inputs for Machine Learning model.
+
+testing.db - a saved cleaned dataset.
+
+ETL Pipeline Preparation.ipynb - notebook file in preparation for process_data.py (html is also provided).
+
 
 ## Results<a name="results"></a>
 
