@@ -39,11 +39,11 @@ history.csv - the log file created during autoencoder model training.
 
 Summary of the performance metrics:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Model                   | Accuracy | Recall | Precision | F1-score |
+| ----------------------- |:--------:|:------:|:----------|:--------:|
+| one-class SVM           | 90.2     | 86.3   | 1.5       | 2.9      |
+| autoencoder (threshold) | 98.0     | 82.1   | 6.6       | 12.3     |
+| autoencoder (z-score)   | 97.7     | 83.2   | 5.8       | 10.9     |
 
 The main findings of the code can be found at the post available [here](https://medium.com/@amaluddin11/best-indicators-for-day-traders-e029d526f336).
 
