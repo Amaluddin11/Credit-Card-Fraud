@@ -28,7 +28,7 @@ Since an antoencoder reconstructs the inputs as its outputs, methods to make pre
 
 Credit Card Fraud.ipynb - the notebook showing step by step from data exploration to discussion of the results obtained from the models.
 
-Credit Card Fraud.html - the html version of the notebook.
+Credit Card Fraud v2.html - the html version of the notebook.
 
 autoencoder_model.h5 - the model which is saved after training (to avoid long training time).
 
