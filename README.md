@@ -40,7 +40,7 @@ history.csv - the log file created during autoencoder model training.
 Summary of the performance metrics:
 
 | Model                   | Accuracy | Recall | Precision | F1-score |
-| ----------------------- |:--------:|:------:|:----------|:--------:|
+| ----------------------- |:--------:|:------:|:---------:|:--------:|
 | one-class SVM           | 90.2     | 86.3   | 1.5       | 2.9      |
 | autoencoder (threshold) | 98.0     | 82.1   | 6.6       | 12.3     |
 | autoencoder (z-score)   | 97.7     | 83.2   | 5.8       | 10.9     |
