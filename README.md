@@ -19,11 +19,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-In this project, I was originally interestested in identifying the best technical indicators to predict stock price movement, either up or down using pre-calculated technical indicator based on historical stock data. In the attempts to achieve this, I have realized that the accuracy obtained is not as high as I had hoped for. Therefore, this project then aims to
+The project aims to compare the performance of an autoencoder with a more traditional algorithm namely one-class SVM. The metrics used to compare are Recall, Accuracy, Precision and F1-score. Given the highly unbalanced dataset, Recall was given more emphasize than the others.
 
-1. Compare the accuracy of prediction using SVW, SVM with PCA, and Neural Networks.
-2. What are the most weighted indicators in the top PCA components?
-3. Based on this data, can we visualize the data to see if we can really separate the two classes, price up or down?
+Since an antoencoder reconstructs the inputs as its outputs, methods to make predictions will be explored. Their relationship with the performance metrics will be investigated.
 
 
 ## File Descriptions <a name="files"></a>
