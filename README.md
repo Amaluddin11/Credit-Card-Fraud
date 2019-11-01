@@ -26,23 +26,13 @@ Since an antoencoder reconstructs the inputs as its outputs, methods to make pre
 
 ## File Descriptions <a name="files"></a>
 
-The notebook showing step by step from data exploration to discussion of the results obtained from the models.
+Credit Card Fraud.ipynb - the notebook showing step by step from data exploration to discussion of the results obtained from the models.
 
-### Folder: app
+Credit Card Fraud.html - the html version of the notebook.
 
-run.py - file to start the web application with files in the templates folder (go.html and master.html)
+autoencoder_model.h5 - the model which is saved after training (to avoid long training time).
 
-### Folder: data
-
-disaster_messages.csv - real messages sent during disaster events provided by Figure Eight.
-
-disaster_categories.csv - the categories of the messages.
-
-process_data.py - to load raw messages, clean the messages and save the messages as inputs for Machine Learning model.
-
-testing.db - a saved cleaned dataset.
-
-ETL Pipeline Preparation.ipynb - notebook file in preparation for process_data.py (html is also provided).
+history.csv - the log file created during autoencoder model training.
 
 
 ## Results<a name="results"></a>
