@@ -45,7 +45,7 @@ Summary of the performance metrics:
 | autoencoder (threshold) | 98.0     | 82.1   | 6.6       | 12.3     |
 | autoencoder (z-score)   | 97.7     | 83.2   | 5.8       | 10.9     |
 
-The main findings of the project can be found at the post available [here](https://medium.com/@amaluddin11/best-indicators-for-day-traders-e029d526f336).
+The main findings of the project can be found at the post available [here](https://medium.com/@amaluddin11/credit-card-fraud-detection-7e47750db863).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
