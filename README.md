@@ -37,6 +37,14 @@ history.csv - the log file created during autoencoder model training.
 
 ## Results<a name="results"></a>
 
+Summary of the performance metrics:
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 The main findings of the code can be found at the post available [here](https://medium.com/@amaluddin11/best-indicators-for-day-traders-e029d526f336).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
