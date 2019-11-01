@@ -3,11 +3,15 @@ The project is to compare the performance of an autoencoder with one-class SVM m
 
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+1. [Data](#data)
+2. [Installation](#installation)
+3. [Project Motivation](#motivation)
+4. [File Descriptions](#files)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
+
+## Data <a name="data"></a>
+The data has been anonymized due to privacy reason and it is publicly available here https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 ## Installation <a name="installation"></a>
 
